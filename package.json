@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ax": "^0.2.2",
+    "axios": "^1.7.9",
+    "chart.js": "^4.4.7",
+    "dayjs": "^1.11.13",
+    "react-chartjs-2": "^5.2.0",
+    "sweetalert2": "^11.15.0"
+  }
+}
